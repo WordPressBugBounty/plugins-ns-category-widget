@@ -1,0 +1,1 @@
+# plugins-ns-category-widget
