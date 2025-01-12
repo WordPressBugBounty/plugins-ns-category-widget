@@ -53,17 +53,17 @@
         },
         {
             "name": "ernilambar/wp-admin-notice",
-            "version": "2.0.0",
-            "version_normalized": "2.0.0.0",
+            "version": "2.0.1",
+            "version_normalized": "2.0.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ernilambar/wp-admin-notice.git",
-                "reference": "ef71e83f6e82d3224783756426ddb209991e30cb"
+                "reference": "1649810056fe4072ab470973c61c33182ae7c4aa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ernilambar/wp-admin-notice/zipball/ef71e83f6e82d3224783756426ddb209991e30cb",
-                "reference": "ef71e83f6e82d3224783756426ddb209991e30cb",
+                "url": "https://api.github.com/repos/ernilambar/wp-admin-notice/zipball/1649810056fe4072ab470973c61c33182ae7c4aa",
+                "reference": "1649810056fe4072ab470973c61c33182ae7c4aa",
                 "shasum": ""
             },
             "require": {
@@ -76,7 +76,7 @@
                 "roave/security-advisories": "dev-latest",
                 "wp-coding-standards/wpcs": "^3.1"
             },
-            "time": "2024-07-26T10:24:55+00:00",
+            "time": "2024-08-02T09:51:55+00:00",
             "type": "library",
             "installation-source": "dist",
             "autoload": {
@@ -104,7 +104,7 @@
             ],
             "support": {
                 "issues": "https://github.com/ernilambar/wp-admin-notice/issues/",
-                "source": "https://github.com/ernilambar/wp-admin-notice/tree/2.0.0"
+                "source": "https://github.com/ernilambar/wp-admin-notice/tree/2.0.1"
             },
             "install-path": "../ernilambar/wp-admin-notice"
         }
