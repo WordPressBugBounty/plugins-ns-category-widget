@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'ernilambar/ns-category-widget',
-        'pretty_version' => '4.1.5',
-        'version' => '4.1.5.0',
-        'reference' => '12b2205adbee96bc34e4da6c0923c15bf4dd2011',
+        'pretty_version' => '4.1.6',
+        'version' => '4.1.6.0',
+        'reference' => '2a5ec4e3f0230f54884c83483afe5c5ae7ecca85',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'ernilambar/ns-category-widget' => array(
-            'pretty_version' => '4.1.5',
-            'version' => '4.1.5.0',
-            'reference' => '12b2205adbee96bc34e4da6c0923c15bf4dd2011',
+            'pretty_version' => '4.1.6',
+            'version' => '4.1.6.0',
+            'reference' => '2a5ec4e3f0230f54884c83483afe5c5ae7ecca85',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
